@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/manolaz-emergency-medicare-planner-mcp-server-badge.png)](https://mseep.ai/app/manolaz-emergency-medicare-planner-mcp-server)
+
 # Emergency Medicare Management MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@manolaz/emergency-medicare-planner-mcp-server)](https://smithery.ai/server/@manolaz/emergency-medicare-planner-mcp-server)
